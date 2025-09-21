@@ -67,8 +67,8 @@ This admin dashboard provides the internal team with a centralized view of each 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/undergraduation-crm-dashboard.git
-cd undergraduation-crm-dashboard
+git clone https://github.com/yourusername/newfolder.git
+cd newfolder
 ```
 
 ### 2. Install Dependencies
