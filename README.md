@@ -186,10 +186,6 @@ The application includes sample student data representing various:
 - Engagement levels and academic profiles
 - Intent levels (exploring, interested, high)
 
-## 🎥 Demo
-
-[Record a LOOM video demonstrating the application and include the link here]
-
 ## 🔧 Development Notes
 
 ### Mock Functionality
@@ -204,4 +200,4 @@ The application includes sample student data representing various:
 - Real-time notifications
 - Bulk operations for student management
 
-**Built with ❤️ for Undergraduation.com**
+
