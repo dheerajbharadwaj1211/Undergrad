@@ -6,7 +6,7 @@ A lightweight internal CRM dashboard for managing student interactions and track
 
 ## 🎯 Overview
 
-This admin dashboard provides the internal team with a centralized view of each student's journey, showing engagement levels, application progress, and communication history. Built as part of the Undergraduation.com technical assessment.
+This admin dashboard provides the internal team with a centralized view of each student's journey, showing engagement levels, application progress, and communication history.
 
 ## ✨ Features
 
