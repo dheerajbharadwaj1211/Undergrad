@@ -1,6 +1,6 @@
 #readme
 
-# Undergraduation.com CRM Dashboard
+# CRM Dashboard
 
 A lightweight internal CRM dashboard for managing student interactions and tracking college application progress on the Undergraduation.com platform.
 
